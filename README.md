@@ -23,7 +23,7 @@ The analysis uses the **Cleveland Heart Disease dataset** and demonstrates that 
 ## How to View
 - **Best option:** Open `HeartDisease Project.html` in a web browser
 - **GitHub preview:** View the notebook directly on GitHub
-- **NBViewer:** Paste the notebook URL into https://nbviewer.org for best rendering
+- **NBViewer:** Paste the notebook URL: https://github.com/katesprin/ProjectHeartDesease/blob/84137ed77410652d03a30fc6ea829feada355676/HeartDisease%20Project.ipynb into https://nbviewer.org for best rendering
 
 ---
 
