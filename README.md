@@ -56,10 +56,10 @@ The analysis uses the **Cleveland Heart Disease dataset** and demonstrates that 
 ---
 
 ## Tools and Technologies
-- R
 - Jupyter Notebook
-- tidyverse (ggplot2, yardstick)
-- caret
+- R:
+    - tidyverse (ggplot2, yardstick)
+    - caret
 
 
 ---
